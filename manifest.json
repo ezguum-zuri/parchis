@@ -1,0 +1,13 @@
+{
+  "name": "Parchís",
+  "short_name": "Parchís",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ecebe7",
+  "theme_color": "#ecebe7",
+  "icons": [
+    {"src": "apple-touch-icon.png?v=2", "sizes": "180x180", "type": "image/png"},
+    {"src": "icon-512.png?v=2", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
